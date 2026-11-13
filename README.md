@@ -1,11 +1,13 @@
 <p align="center">
-  <img src="./assets/cover-bilingual.png" width="100%" alt="Eduardo Nogueira — web development and automation. Websites, APIs and digital products." />
+  <a href="https://nogueiradigital.com.br/"><img src="./assets/cover.jpg" width="100%" alt="Eduardo Nogueira — Refined until it feels simple. Signature websites, 3D product films and SaaS." /></a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/eduardo-nogueira-b07545288/"><img src="https://img.shields.io/badge/LinkedIn-Let's_talk_·_Vamos_conversar-C8F76B?style=for-the-badge&labelColor=18201D&logo=linkedin&logoColor=white" alt="Let's talk on LinkedIn" /></a>
+  <a href="https://nogueiradigital.com.br/"><img src="https://img.shields.io/badge/Portfolio-nogueiradigital.com.br-D2B06B?style=for-the-badge&labelColor=0B0B0D&logo=googlechrome&logoColor=D2B06B" alt="Portfolio: nogueiradigital.com.br" /></a>
   &nbsp;
-  <a href="#-live-demos--demos-ao-vivo"><img src="https://img.shields.io/badge/Live_demos-Demos_ao_vivo-C8F76B?style=for-the-badge&labelColor=18201D&logo=googlechrome&logoColor=white" alt="See live demos" /></a>
+  <a href="https://provadoseo.com/"><img src="https://img.shields.io/badge/Live-Provado_SaaS-30D158?style=for-the-badge&labelColor=0B0B0D" alt="Live: Provado SaaS" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/eduardo-nogueira-b07545288/"><img src="https://img.shields.io/badge/LinkedIn-Let's_talk-D2B06B?style=for-the-badge&labelColor=0B0B0D&logo=linkedin&logoColor=D2B06B" alt="Let's talk on LinkedIn" /></a>
 </p>
 
 <p align="center">
@@ -14,53 +16,46 @@
 
 <br />
 
-## Code with purpose. Learning by building.
+## Refined until it feels simple.
 
-I'm **Eduardo Nogueira**, a full stack developer from Brazil. I build **websites and web apps with React and TypeScript**, connect them to APIs and data, and use **automation** to take repetitive work off people's hands.
+I'm **Eduardo Nogueira**, a full-stack developer from Brazil. I design and build **signature websites**, **3D product films** and **SaaS** — from the database to launch day.
 
-I like to understand the problem before choosing the tool. My focus is pairing a clear, fast interface with a solid structure behind it — and getting a little better with every project.
+By day I work on a product team (React, TypeScript, NestJS and Prisma), taking features from code review to production. The rest of the time I build my own products and systems for clients, thinking about the person behind the counter, not just the screenshot.
+
+<br />
+
+### ✦ Selected work · Trabalhos
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>01 / Build</h3>
-      <p>Turn a real need into a website, an integration or a tool that saves time.</p>
-      <p><sub><strong>WEBSITES · WEB APPS · AUTOMATION</strong></sub></p>
+      <a href="https://provadoseo.com/"><img src="./assets/work/provado.webp" width="100%" alt="Provado landing page: what if the report built itself?" /></a>
+      <h4><a href="https://provadoseo.com/">Provado ↗</a> &nbsp;<sub>🟢 LIVE</sub></h4>
+      <p>White-label proof of technical SEO work, for agencies. It checks client sites twice a month and builds the monthly report on its own — in English, Portuguese and Spanish, with Stripe checkout.<br /><sub>Prova mensal do trabalho técnico de SEO, white-label, para agências.</sub></p>
+      <p><sub>NEXT.JS · SUPABASE · STRIPE · PLAYWRIGHT</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3>02 / Go deeper</h3>
-      <p>Grow in backend, data modeling and system integration — by shipping, not just reading.</p>
-      <p><sub><strong>APIS · DATABASES · DIGITAL PRODUCTS</strong></sub></p>
+      <img src="./assets/work/midascrypto.webp" width="100%" alt="MidasCrypto landing page with an example card (fictional data)" />
+      <h4>MidasCrypto &nbsp;<sub>⏸ PAUSED</sub></h4>
+      <p>A Telegram data tool for new Solana launches, built with a friend: it filters every new pair, runs safety checks and sends one card, then reports what happened next. Ran in production in October; paused while I focus on Provado.<br /><sub>Ferramenta de dados no Telegram para lançamentos na Solana. Pausada. Card de exemplo com dados fictícios.</sub></p>
+      <p><sub>PYTHON · TELEGRAM · DATA</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://eduardon0gueira.github.io/skinlines-prototype/"><img src="./assets/work/skinlines.webp" width="100%" alt="Skinlines website prototype: Lines that follow the body." /></a>
+      <h4><a href="https://eduardon0gueira.github.io/skinlines-prototype/">Skinlines Art Space ↗</a> &nbsp;<sub>PROTOTYPE</sub></h4>
+      <p>An independent website prototype for a tattoo studio on Pink Street, Lisbon — editorial type, EN/PT, booking by DM. Not the studio's official site.<br /><sub>Protótipo independente de site para um estúdio de tatuagem em Lisboa. Não é o site oficial.</sub></p>
+      <p><sub>HTML · CSS · JAVASCRIPT · <a href="https://github.com/EduardoN0gueira/skinlines-prototype">CODE</a></sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://nogueiradigital.com.br/#films"><img src="./assets/work/films.jpg" width="100%" alt="Three 3D product film concepts: Noctelle, Maison Calvère and Élore Verde" /></a>
+      <h4><a href="https://nogueiradigital.com.br/#films">3D product films ↗</a> &nbsp;<sub>CONCEPT · DESIGNED WITH AI</sub></h4>
+      <p>Short product films for concept brands — a perfume, a bottle, a watch — rendered in real time in the browser.<br /><sub>Filmes 3D de produto para marcas-conceito, renderizados em tempo real no navegador.</sub></p>
+      <p><sub>THREE.JS · WEBGL · REACT</sub></p>
     </td>
   </tr>
 </table>
-
-<br />
-
-### 🧰 Stack · Tecnologias
-
-**Front-end**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-18201D?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-18201D?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-18201D?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-18201D?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS-18201D?style=for-the-badge&logo=css&logoColor=BEA5FF)
-
-**Back-end & data · Back-end e dados**
-
-![Node.js](https://img.shields.io/badge/Node.js-18201D?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![NestJS](https://img.shields.io/badge/NestJS-18201D?style=for-the-badge&logo=nestjs&logoColor=E0234E)
-![Prisma](https://img.shields.io/badge/Prisma-18201D?style=for-the-badge&logo=prisma&logoColor=E8EDE9)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18201D?style=for-the-badge&logo=postgresql&logoColor=72B0DE)
-
-**Tools & automation · Ferramentas e automação**
-
-![Git](https://img.shields.io/badge/Git-18201D?style=for-the-badge&logo=git&logoColor=F05032)
-![Docker](https://img.shields.io/badge/Docker-18201D?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Python](https://img.shields.io/badge/Python-18201D?style=for-the-badge&logo=python&logoColor=FFD43B)
-![n8n](https://img.shields.io/badge/n8n-18201D?style=for-the-badge&logo=n8n&logoColor=EA4B71)
-![PowerShell](https://img.shields.io/badge/PowerShell-18201D?style=for-the-badge)
 
 <br />
 
@@ -115,6 +110,38 @@ I like to understand the problem before choosing the tool. My focus is pairing a
 
 <br />
 
+### 🧰 Stack · Tecnologias
+
+**Front-end & 3D**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0B0B0D?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-0B0B0D?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0B0B0D?style=for-the-badge&logo=nextdotjs&logoColor=F6F3EC)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0B0B0D?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![Three.js](https://img.shields.io/badge/Three.js-0B0B0D?style=for-the-badge&logo=threedotjs&logoColor=F6F3EC)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B0B0D?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-0B0B0D?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-0B0B0D?style=for-the-badge&logo=css&logoColor=BEA5FF)
+
+**Back-end, data & payments · Back-end, dados e pagamentos**
+
+![Node.js](https://img.shields.io/badge/Node.js-0B0B0D?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![NestJS](https://img.shields.io/badge/NestJS-0B0B0D?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+![Prisma](https://img.shields.io/badge/Prisma-0B0B0D?style=for-the-badge&logo=prisma&logoColor=F6F3EC)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B0B0D?style=for-the-badge&logo=postgresql&logoColor=72B0DE)
+![Supabase](https://img.shields.io/badge/Supabase-0B0B0D?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![Stripe](https://img.shields.io/badge/Stripe-0B0B0D?style=for-the-badge&logo=stripe&logoColor=635BFF)
+
+**Tools & automation · Ferramentas e automação**
+
+![Git](https://img.shields.io/badge/Git-0B0B0D?style=for-the-badge&logo=git&logoColor=F05032)
+![Playwright](https://img.shields.io/badge/Playwright-0B0B0D?style=for-the-badge&logo=playwright&logoColor=2EAD33)
+![Python](https://img.shields.io/badge/Python-0B0B0D?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Docker](https://img.shields.io/badge/Docker-0B0B0D?style=for-the-badge&logo=docker&logoColor=2496ED)
+![n8n](https://img.shields.io/badge/n8n-0B0B0D?style=for-the-badge&logo=n8n&logoColor=EA4B71)
+
+<br />
+
 ---
 
 <a id="em-português"></a>
@@ -124,23 +151,25 @@ I like to understand the problem before choosing the tool. My focus is pairing a
 
 <br />
 
-### Código com propósito. Aprendizado na prática.
+### Lapidado até parecer simples.
 
-Sou **Eduardo Nogueira**, desenvolvedor full stack no Brasil. Construo **sites e aplicações web com React e TypeScript**, conecto tudo a APIs e dados e uso **automação** para tirar o trabalho repetitivo das mãos das pessoas.
+Sou o **Eduardo Nogueira**, desenvolvedor full stack no Brasil. Desenho e construo **sites premium**, **filmes 3D de produto** e **SaaS** — do banco de dados ao dia do lançamento.
 
-Gosto de entender o problema antes de escolher a ferramenta. Meu foco é unir uma interface clara e rápida a uma estrutura consistente por trás — e melhorar um pouco a cada projeto.
+Durante o dia trabalho num time de produto (React, TypeScript, NestJS e Prisma), levando funcionalidades do code review até a produção. No resto do tempo crio meus próprios produtos e sistemas para clientes, pensando em quem está no balcão, não só no print bonito.
 
-- **01 / Construir** — transformar uma necessidade real em um site, uma integração ou uma ferramenta que economize tempo.
-- **02 / Aprofundar** — evoluir em backend, modelagem de dados e integração entre sistemas, colocando em prática.
+- **Provado** — no ar: prova mensal do trabalho técnico de SEO, white-label, para agências, em três idiomas e com checkout pela Stripe.
+- **MidasCrypto** — pausado: ferramenta de dados no Telegram para lançamentos na Solana, feita com um amigo.
+- **Skinlines Art Space** — protótipo independente de site para um estúdio de tatuagem em Lisboa (não é o site oficial).
+- **Filmes 3D de produto** — conceitos criados com IA e renderizados em tempo real no navegador.
 
-As demos ao vivo e a automação acima têm descrição nos dois idiomas.
+As demos ao vivo e a automação acima têm descrição nos dois idiomas. O portfólio completo está em **[nogueiradigital.com.br](https://nogueiradigital.com.br/)**.
 
 </details>
 
 <br />
 
 <p align="center">
-  <strong>Good ideas get better when we share them.</strong><br />
-  <sub>Boas ideias ficam melhores quando a gente troca experiências.</sub><br /><br />
-  <a href="https://www.linkedin.com/in/eduardo-nogueira-b07545288/">Let's talk about websites and automation · Vamos conversar →</a>
+  <strong>Have a project in mind?</strong><br />
+  <sub>Tem um projeto em mente?</sub><br /><br />
+  <a href="https://nogueiradigital.com.br/">nogueiradigital.com.br →</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/eduardo-nogueira-b07545288/">LinkedIn →</a>
 </p>
